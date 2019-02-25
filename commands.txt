@@ -6,3 +6,5 @@ ls
 CTRL-ALT-T ----opens terminal
 CTRL-L ----clears terminal
 ctrl-D ----Close terminal
+
+ctrl-z send the current prosses to the background
